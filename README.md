@@ -4,7 +4,7 @@ LeetCode
 ### LeetCode Algorithm
 
 | # | Title | Solution | Difficulty | Week |
-|---| ----- | -------- | ---------- | --- |
+|---| ----- | -------- | ---------- | ---- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./algorithms/C++/TwoSum/Two_Sum.cpp)|Easy| 1
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [C++](./algorithms/C++/AddTwoNumbers/Add_Two_Numbers.cpp)|Medium| 2
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [C++](./algorithms/C++/MedianofTwoSortedArrays/Median_of_Two_Sorted_Arrays.cpp)|Hard| 2
