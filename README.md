@@ -15,4 +15,5 @@ LeetCode
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [C++](./algorithms/C++/GenerateParentheses/Generate_Parentheses.cpp)|Medium| 3
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [C++](./algorithms/C++/FindtheIndex/Find_the_Index.cpp)|Easy| 2
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [C++](./algorithms/C++/SearchInsertPosition/Search_Insert_Position.cpp)|Easy| 3
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](./algorithms/C++/CombinationSum/Combination_Sum.cpp)|Medium| 4
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./algorithms/C++/LengthofLastWord/Length_of_Last_Word.cpp)|Easy| 3
