@@ -18,3 +18,4 @@ LeetCode
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [C++](./algorithms/C++/CombinationSum/Combination_Sum.cpp)|Medium| 4
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./algorithms/C++/LengthofLastWord/Length_of_Last_Word.cpp)|Easy| 3
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](./algorithms/C++/Sqrt(x)/Sqrt(x).cpp)|Easy| 4
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./algorithms/C++/MergeSortedArray/Merge_Sorted_Array.cpp)|Easy| 4
