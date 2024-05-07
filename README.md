@@ -19,3 +19,4 @@ LeetCode
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) | [C++](./algorithms/C++/LengthofLastWord/Length_of_Last_Word.cpp)|Easy| 3
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](./algorithms/C++/Sqrt(x)/Sqrt(x).cpp)|Easy| 4
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./algorithms/C++/MergeSortedArray/Merge_Sorted_Array.cpp)|Easy| 4
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [C++](./algorithms/C++/BestTimetoBuyandShellStock/Best_Time_to_Buy_and_Shell_Stock.cpp)|Easy| 5
