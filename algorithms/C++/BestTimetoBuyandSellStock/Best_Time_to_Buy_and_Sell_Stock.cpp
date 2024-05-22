@@ -11,7 +11,6 @@ int maxProfit(std::vector<int>& prices) {
         minPrice = std::min(minPrice, price);
         maxProfit = std::max(maxProfit, price - minPrice);
     }
-
     return maxProfit;
 }
 };
