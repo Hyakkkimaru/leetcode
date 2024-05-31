@@ -20,5 +20,6 @@ LeetCode
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [C++](./algorithms/C++/Sqrt(x)/Sqrt(x).cpp)|Easy| 4
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](./algorithms/C++/MergeSortedArray/Merge_Sorted_Array.cpp)|Easy| 4
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [C++](./algorithms/C++/BestTimetoBuyandSellStock/Best_Time_to_Buy_and_Sell_Stock.cpp)|Easy| 5
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/C++/JewelsandStones/JewelsandStones.cpp)|Easy| 6
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/) | [C++](./algorithms/C++/DecompressRun-LengthEncodedList/Decompress_Run-Length_Encoded_List.cpp)|Easy| 5
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | [C++](./algorithms/C++/CheckIfTwoStringArraysareEquivalent/Check_If_Two_String_Arrays_are_Equivalent.cpp)|Easy| 5
