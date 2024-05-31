@@ -23,3 +23,4 @@ LeetCode
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/) | [C++](./algorithms/C++/JewelsandStones/Jewels_and_Stones.cpp)|Easy| 6
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/description/) | [C++](./algorithms/C++/DecompressRun-LengthEncodedList/Decompress_Run-Length_Encoded_List.cpp)|Easy| 5
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/) | [C++](./algorithms/C++/CheckIfTwoStringArraysareEquivalent/Check_If_Two_String_Arrays_are_Equivalent.cpp)|Easy| 5
+|2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/description/) | [C++](./algorithms/C++/ConverttheTemperature/Convert_the_Temperature.cpp)|Easy| 6
